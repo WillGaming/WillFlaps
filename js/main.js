@@ -5,10 +5,8 @@ function main() {
   $('.projects').hide();
   $('.about').on('click', function() {
   $(this).toggleClass('active');
-  setTimeout(function() {
-  $(this).toggleClass('active');
- }, 1000;
-  window.location.href="./about.html"
+   window.location.href="./about.html"
+ 
    	  
 	});
   $('.projects-button').on('click', function() {
