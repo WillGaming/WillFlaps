@@ -11,7 +11,7 @@ function main() {
 	});
   $('.projects-button').on('click', function() {
     $(this).toggleClass('active');
-    $(this).text("Project's Viewed")
+    $(this).text("Games Viewed")
     $(this).next().slideToggle(400)
 	});
 }
