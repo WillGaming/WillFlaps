@@ -13,7 +13,9 @@ h1 {
   justify-content: space-between;
   flex-wrap: wrap;
 }
-
+.skill-about{
+  background-color: #ffbe3d
+}
 .skill-html {
   background-color: #E55126;
 }
