@@ -34,7 +34,19 @@ h1 {
   margin: 0.5em;
   color: whitesmoke;
 }
-
+.skill-about{
+width: 100%;
+  padding: 1em 3em 2em 2em;
+  margin: 0.5em;
+  color: whitesmoke;
+}
+.about{
+  padding: 0.75em 1.25em;
+  background-color: whitesmoke;
+  opacity: 0.9;
+  width: 10em;
+  color: black;
+}
 .projects-button {
   padding: 0.75em 1.25em;
   background-color: whitesmoke;
