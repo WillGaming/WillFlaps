@@ -5,6 +5,7 @@ function main() {
   $('.projects').hide();
   $('.about').on('click', function() {
   $(this).toggleClass('active');
+  $(this).toggleClass('active');
   window.location.href="./about.html"
    	  
 	});
