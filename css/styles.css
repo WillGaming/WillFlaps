@@ -7,7 +7,9 @@ body {
 h1 {
   font-size: 2.5em;
 }
-
+a {
+font-size: 2.5em;
+}
 .skillset {
   display: flex;
   justify-content: space-between;
