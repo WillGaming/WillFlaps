@@ -63,7 +63,7 @@ width: 100%;
   width: 10em;
 color: black;
 }
-.note {
+#note {
     position: absolute;
     z-index: 101;
     top: 0;
@@ -76,7 +76,6 @@ color: black;
     -webkit-box-shadow: 0 0 5px black;
     -moz-box-shadow:    0 0 5px black;
     box-shadow:         0 0 5px black;
-  
 }
 ul {
   list-style: none;
