@@ -1,9 +1,8 @@
 function main() {
   $('.page-load-text').text(' ')
-  $('.note').hide()
   $('.skillset').hide();
   $('.skillset').fadeIn(2000);
-  
+  $('#note').hide()
   $('.projects').hide();
   $('.about').on('click', function() {
   $(this).toggleClass('active');
