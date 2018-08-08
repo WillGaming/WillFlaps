@@ -1,7 +1,6 @@
 function main() {
   $('.page-load-text').text(' ')
   $('.note').hide()
-  $('.alert-note').hide()
   $('.skillset').hide();
   $('.skillset').fadeIn(2000);
   
