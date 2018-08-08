@@ -1,4 +1,6 @@
 function main() {
+  $('.page-load-text').text(' ')
+	
   $('.skillset').hide();
   $('.skillset').fadeIn(2000);
   
