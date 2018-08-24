@@ -83,7 +83,9 @@ ul {
   list-style: none;
   padding: 0;
 }
-
+.centered-text {
+  text-align: center;
+}
 .projects {
   margin: 1em 0;
 }
