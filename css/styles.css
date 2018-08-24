@@ -21,7 +21,12 @@ font-size: 1.0em;
 .skill-html {
   background-color: #E55126;
 }
-
+.center-me {
+  margin: 0 auto;
+}
+.trailer {
+  margin: 0 auto;
+}
 .skill-js {
   background-color: #E5A227;
 }
