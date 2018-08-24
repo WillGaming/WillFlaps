@@ -103,3 +103,8 @@ ul {
   background-color: #333333;
   color: whitesmoke;
 }
+.projects-button{
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
